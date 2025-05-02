@@ -32,7 +32,3 @@ This project is a course registration form developed as part of a Spring Boot pr
 - Node.js and npm (for React)
 - MySQL
 - Spring Boot 2.5.4 or compatible
-
-## Setup Instructions
-
-1. **Clone the repository
